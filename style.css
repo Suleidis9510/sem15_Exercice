@@ -1,0 +1,52 @@
+.navbar {
+  background-color: #6c757d; /* Gris oscuro */
+}
+.navbar .form-control {
+  border: none;
+}
+.navbar .nav-link {
+  color: white;
+}
+.navbar .nav-link:hover {
+  color: #d3d3d3;
+}
+
+.carousel-inner p {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333;
+}
+.navbar {
+  background-color: #6c757d; /* Gris oscuro */
+}
+.navbar .form-control {
+  border: none;
+}
+.navbar .nav-link {
+  color: white;
+  text-decoration: none;
+}
+.navbar .nav-link:hover {
+  color: #d3d3d3;
+}
+.list-group-item {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-decoration: underline;
+  padding: 20px;
+}
+.carousel-inner p {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #333;
+}
+.highlight-text {
+  color: #c00;
+  font-weight: bold;
+  font-style: italic;
+}
+.bg-light-gray {
+  background-color: #f8f9fa; /* Gris claro */
+  padding: 10px;
+  border-radius: 5px;
+}
